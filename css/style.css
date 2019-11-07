@@ -1264,9 +1264,10 @@ input[type="text"] {
   color: #CA82F8; }
 
 #footer {
-  padding: 8em 0;
-  display: block;
-  width: 100%; }
+  padding: 1em 0;
+    display: block;
+    width: 100%;
+    background-color: lightgray;}
   #footer h2 {
     color: #000;
     letter-spacing: 1px;
